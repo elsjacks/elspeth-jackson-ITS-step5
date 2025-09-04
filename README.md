@@ -1,2 +1,3 @@
 # step5
-#all you have at the moment is comments
+#This is my Step 5 file for CYF ITD
+#the README.md file is the short story for everyone looking at the file
