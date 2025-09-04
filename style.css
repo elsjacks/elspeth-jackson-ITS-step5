@@ -23,8 +23,8 @@ color:white;}
 .article{ position:relative;
 width:500px;
 height:600px;
-  top:-1000px;
-  left:500px;
+  top:500px;
+  right:500px;
 }
 #imaget{display:block;
 position:relative;
