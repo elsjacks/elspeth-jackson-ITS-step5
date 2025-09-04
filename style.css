@@ -1,0 +1,33 @@
+<style>
+h1{color: rgb(0,150,50);}
+body{background-color: rgb(176,247,187);
+font-family:monospace;}
+.bjj{color: rgb(135,145,138);
+font-weight: bold;}
+#image{display: block;
+margin-left:auto;
+margin-right:auto;
+width:40%;}
+nav{float:left;
+width 30%;
+height: 300px;
+background-color:rgb(0,100,0);
+padding:100px;
+color:white;}
+article{float:left;
+padding:10px;
+width:70%;
+background-color:rgb(6,64,43);
+color:white;}
+.nav, .article {display:inline-block;}
+.article{ position:relative;
+width:500px;
+height:600px;
+  top:-300px;
+  right: -700px;
+}
+#imaget{display:block;
+position:relative;
+  right: -150px;
+
+</style>
