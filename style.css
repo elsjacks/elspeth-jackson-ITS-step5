@@ -20,12 +20,7 @@ width:70%;
 background-color:rgb(6,64,43);
 color:white;}
 .nav, .article {display:inline-block;}
-.article{ position:relative;
-width:500px;
-height:600px;
-  top:500px;
-  right:500px;
-}
+
 #imaget{display:block;
 position:relative;
   right: -150px;
